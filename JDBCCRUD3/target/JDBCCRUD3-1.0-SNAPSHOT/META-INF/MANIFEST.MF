@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: WuLei
+Class-Path: lib/mysql-connector-java-5.1.22.jar
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_111
+Main-Class: JDBCOperation
+
